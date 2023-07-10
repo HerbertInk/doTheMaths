@@ -1,4 +1,5 @@
 import requests
+# requests pip
 
 def get_bitcoin_price():
     # CoinMarketCap API key
@@ -23,7 +24,6 @@ def get_bitcoin_price():
 
 # function call to get the Bitcoin price
 # price = get_bitcoin_price()
-
 # if price:
 #     print(f"Current bitcoin price ${price:.2f}")
 
@@ -33,8 +33,13 @@ def calculate_sales_price(price, interest_rate):
 
 # function call to get the Bitcoin price
 bitcoin_price = get_bitcoin_price()
+
+# interest
 interest = 4
+
 if bitcoin_price:
     sales_price = calculate_sales_price(bitcoin_price, interest)
     print(f"Current bitcoin price ${bitcoin_price:.2f}")
     print(f"Sale price at {interest}% interest ${sales_price:.2f}")
+
+# Done
