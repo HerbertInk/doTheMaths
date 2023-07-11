@@ -42,4 +42,4 @@ if bitcoin_price:
     print(f"Current bitcoin price ${bitcoin_price:.2f}")
     print(f"Sale price at {interest}% interest ${sales_price:.2f}")
 
-# Done
+# Done by Ink.
