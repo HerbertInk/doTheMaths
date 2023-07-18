@@ -3,17 +3,17 @@
 # Goal: Enable effective and efficient sales of sats at premium
 # it's a building step towards a bitcoin voucher platform
 
-# [request] pip
+# [request] pip install requests
 
 import requests
 
 print('Sats Valuation Calculator')
 
 def get_bitcoin_price():
-    # CoinMarketCap API key
+    # coinmarketcap API key
     api_key = '2eba678d-350b-4d07-818c-780ba97bb137'
     
-    # Make a request to the CoinMarketCap API
+    # request to the coinMarketcap API
     url = f'https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?symbol=BTC'
     headers = {
         'Accepts': 'application/json',
@@ -26,15 +26,14 @@ def get_bitcoin_price():
         bitcoin_price = data['data']['BTC']['quote']['USD']['price']
         return bitcoin_price
     else:
-        print('Error occurred while fetching Bitcoin price.')
+        print('price fetch error!!! /n Retry.')
         return None
-
-
+    
 def calculate_sales_price(price, interest_rate):
     sales_price = price * (1 + (interest_rate / 100))
     return sales_price
 
-# function call to get the Bitcoin price
+# bitcoin price function call
 bitcoin_price = get_bitcoin_price()
 
 # interest
@@ -49,8 +48,8 @@ if bitcoin_price:
     fetching bitcoin price from CMC
     Next: Valuation of sats 
     Later: thinking of a web socket and how it would help
-
 """
+
 # Done by Ink.
 
 """
