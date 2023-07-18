@@ -1,9 +1,16 @@
+# bitsCalc python program
+# the valuation of satoshis using realtime data from the CMC API
+# Goal: Enable effective and efficient sales of sats at premium
+# it's a building step towards a bitcoin voucher platform
+
+# [request] pip
+
 import requests
-# requests pip
+
+print('Sats Valuation Calculator')
 
 def get_bitcoin_price():
     # CoinMarketCap API key
-    # api_key = 'YOUR_API_KEY'
     api_key = '2eba678d-350b-4d07-818c-780ba97bb137'
     
     # Make a request to the CoinMarketCap API
@@ -22,10 +29,6 @@ def get_bitcoin_price():
         print('Error occurred while fetching Bitcoin price.')
         return None
 
-# function call to get the Bitcoin price
-# price = get_bitcoin_price()
-# if price:
-#     print(f"Current bitcoin price ${price:.2f}")
 
 def calculate_sales_price(price, interest_rate):
     sales_price = price * (1 + (interest_rate / 100))
@@ -42,4 +45,15 @@ if bitcoin_price:
     print(f"Current bitcoin price ${bitcoin_price:.2f}")
     print(f"Sale price at {interest}% interest ${sales_price:.2f}")
 
+"""
+    fetching bitcoin price from CMC
+    Next: Valuation of sats 
+    Later: thinking of a web socket and how it would help
+
+"""
 # Done by Ink.
+
+"""
+    bitcoin is the standard
+    Everything else is noise
+"""
