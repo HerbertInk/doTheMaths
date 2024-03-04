@@ -1,0 +1,50 @@
+Ps: Amended content is subject to change
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: BTC
+Price change in %: Open 63980.28 Close 69000.0 (7.85%)
+BTC balance: 0.03907454
+Investment Amount: $2500.00
+----------------------------------------------
+Unrealized Balance: $2696.14
+ROI: 7.85%
+P/L: $196.14
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: LTC
+Price change in %: Open 91.8 Close 420.0 (357.52%)
+LTC balance: 10.89324619
+Investment Amount: $1000.00
+----------------------------------------------
+Unrealized Balance: $4575.16
+ROI: 357.52%
+P/L: $3575.16
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: FIL
+Price change in %: Open 10.42 Close 273.0 (2519.96%)
+FIL balance: 9.59692898
+Investment Amount: $100.00
+----------------------------------------------
+Unrealized Balance: $2619.96
+ROI: 2519.96%
+P/L: $2519.96
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: XMR
+Price change in %: Open 150.41 Close 211.0 (40.28%)
+XMR balance: 3.32424706
+Investment Amount: $500.00
+----------------------------------------------
+Unrealized Balance: $701.42
+ROI: 40.28%
+P/L: $201.42
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+------------------------------------------------------------------------------------------
