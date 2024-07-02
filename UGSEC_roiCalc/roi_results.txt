@@ -1,0 +1,36 @@
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Company Ticker: MTN-UG
+Price(UGX) change in %: Open 200.0 Close 204.0 (2.00%)
+MTN-UG holdings: 1000.0000 shares
+Investment Amount: UGX 200000.00
+----------------------------------------------
+Unrealized Balance: UGX 204000.00
+ROI: 2.00%
+P/L: UGX 4000.00
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Company Ticker: Bank
+Price(UGX) change in %: Open 70.0 Close 200.02 (185.74%)
+Bank holdings: 5000.0000 shares
+Investment Amount: UGX 350000.00
+----------------------------------------------
+Unrealized Balance: UGX 1000100.00
+ROI: 185.74%
+P/L: UGX 650100.00
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Company Ticker: BANK
+Price(UGX) change in %: Open 70.0 Close 200.2 (186.00%)
+BANK holdings: 14285.7143 shares
+Investment Amount: UGX 1000000.00
+----------------------------------------------
+Unrealized Balance: UGX 2860000.00
+ROI: 186.00%
+P/L: UGX 1860000.00
+----------------------------------------------
+--Risk disclosure: Not financial advice--
