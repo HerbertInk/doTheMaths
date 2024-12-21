@@ -48,3 +48,15 @@ P/L: $201.42
 ----------------------------------------------
 --Risk disclosure: Not financial advice--
 ------------------------------------------------------------------------------------------
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: ETH
+Price change in %: Open 3390.0 Close 15000.0 (342.48%)
+ETH balance: 0.11799410
+Investment Amount: $400.00
+----------------------------------------------
+Unrealized Balance: $1769.91
+ROI: 342.48%
+P/L: $1369.91
+----------------------------------------------
+--Risk disclosure: Not financial advice--
