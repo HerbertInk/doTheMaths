@@ -1,3 +1,4 @@
+10:19 AM 3/4/2024
 Ps: Amended content is subject to change
 
 -----CURRENCY--COMMODITY--BAL--ROI--P/L-----
@@ -47,6 +48,7 @@ ROI: 40.28%
 P/L: $201.42
 ----------------------------------------------
 --Risk disclosure: Not financial advice--
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------
 
 -----CURRENCY--COMMODITY--BAL--ROI--P/L-----
@@ -58,5 +60,257 @@ Investment Amount: $400.00
 Unrealized Balance: $1769.91
 ROI: 342.48%
 P/L: $1369.91
+=======
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: BTC
+Price change in %: Open 5000.0 Close 65200.0 (1204.00%)
+BTC balance: 0.02000000
+Investment Amount: $100.00
+----------------------------------------------
+Unrealized Balance: $1304.00
+ROI: 1204.00%
+P/L: $1204.00
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: NVDA
+Price change in %: Open 0.8229 Close 869.21 (105527.66%)
+NVDA balance: 2430.42897071
+Investment Amount: $2000.00
+----------------------------------------------
+Unrealized Balance: $2112553.17
+ROI: 105527.66%
+P/L: $2110553.17
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: VRA
+Price change in %: Open 0.139922 Close 0.078025 (-44.24%)
+VRA balance: 14.29367791
+Investment Amount: $2.00
+----------------------------------------------
+Unrealized Balance: $1.12
+ROI: -44.24%
+P/L: $-0.88
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: VRA
+Price change in %: Open 0.01391 Close 0.08 (475.13%)
+VRA balance: 143.78145219
+Investment Amount: $2.00
+----------------------------------------------
+Unrealized Balance: $11.50
+ROI: 475.13%
+P/L: $9.50
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: FLOW
+Price change in %: Open 1.5289 Close 22.3445 (1361.48%)
+FLOW balance: 2.61626006
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $58.46
+ROI: 1361.48%
+P/L: $54.46
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: FLM
+Price change in %: Open 0.135 Close 0.77579 (474.66%)
+FLM balance: 14.81481481
+Investment Amount: $2.00
+----------------------------------------------
+Unrealized Balance: $11.49
+ROI: 474.66%
+P/L: $9.49
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: ADA
+Price change in %: Open 0.7822 Close 2.5 (219.61%)
+ADA balance: 5.11378164
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $12.78
+ROI: 219.61%
+P/L: $8.78
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: NEAR
+Price change in %: Open 6.747 Close 15.0 (122.32%)
+NEAR balance: 0.74107011
+Investment Amount: $5.00
+----------------------------------------------
+Unrealized Balance: $11.12
+ROI: 122.32%
+P/L: $6.12
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: ETC
+Price change in %: Open 38.16 Close 100.0 (162.05%)
+ETC balance: 0.10482180
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $10.48
+ROI: 162.05%
+P/L: $6.48
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: GLMR
+Price change in %: Open 0.6892 Close 7.7387 (1022.85%)
+GLMR balance: 1.45095763
+Investment Amount: $1.00
+----------------------------------------------
+Unrealized Balance: $11.23
+ROI: 1022.85%
+P/L: $10.23
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: MR T
+Price change in %: Open 0.005304 Close 0.072474 (1266.40%)
+MR T balance: 188.53695324
+Investment Amount: $1.00
+----------------------------------------------
+Unrealized Balance: $13.66
+ROI: 1266.40%
+P/L: $12.66
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: RVN
+Price change in %: Open 0.03389 Close 0.22 (549.16%)
+RVN balance: 118.02891708
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $25.97
+ROI: 549.16%
+P/L: $21.97
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: XLM
+Price change in %: Open 0.1574 Close 0.6505 (313.28%)
+XLM balance: 12.70648030
+Investment Amount: $2.00
+----------------------------------------------
+Unrealized Balance: $8.27
+ROI: 313.28%
+P/L: $6.27
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: LOOK
+Price change in %: Open 0.17963 Close 3.51204 (1855.15%)
+LOOK balance: 22.26799532
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $78.21
+ROI: 1855.15%
+P/L: $74.21
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: ZIL
+Price change in %: Open 0.03755 Close 0.175 (366.05%)
+ZIL balance: 106.52463382
+Investment Amount: $4.00
+----------------------------------------------
+Unrealized Balance: $18.64
+ROI: 366.05%
+P/L: $14.64
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: BTC
+Price change in %: Open 35000.0 Close 73800.0 (110.86%)
+BTC balance: 0.00285714
+Investment Amount: $100.00
+----------------------------------------------
+Unrealized Balance: $210.86
+ROI: 110.86%
+P/L: $110.86
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: BTC
+Price change in %: Open 27800.0 Close 67644.0 (143.32%)
+BTC balance: 0.00003597
+Investment Amount: $1.00
+----------------------------------------------
+Unrealized Balance: $2.43
+ROI: 143.32%
+P/L: $1.43
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: MOBILECOIN
+Price change in %: Open 0.084 Close 20.0 (23709.52%)
+MOBILECOIN balance: 119.04761905
+Investment Amount: $10.00
+----------------------------------------------
+Unrealized Balance: $2380.95
+ROI: 23709.52%
+P/L: $2370.95
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: LTC
+Price change in %: Open 83.21 Close 100.0 (20.18%)
+LTC balance: 0.50342507
+Investment Amount: $41.89
+----------------------------------------------
+Unrealized Balance: $50.34
+ROI: 20.18%
+P/L: $8.45
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: LTC
+Price change in %: Open 83.19 Close 105.0 (26.22%)
+LTC balance: 0.64971751
+Investment Amount: $54.05
+----------------------------------------------
+Unrealized Balance: $68.22
+ROI: 26.22%
+P/L: $14.17
+>>>>>>> 26eb18c55a3d53c7799cd9637a6eace3e920ec49
+----------------------------------------------
+--Risk disclosure: Not financial advice--
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: ETH
+Price change in %: Open 3363471.33 Close 15000.0 (-99.55%)
+ETH balance: 0.00002973
+Investment Amount: $100.00
+----------------------------------------------
+Unrealized Balance: $0.45
+ROI: -99.55%
+P/L: $-99.55
 ----------------------------------------------
 --Risk disclosure: Not financial advice--
